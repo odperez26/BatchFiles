@@ -6,7 +6,7 @@ exit /b
 
 :sumar
 set /a resultado= %1 + %2
-echo suma=%resultado%
+echo sumaaa=%resultado%
 pause
 exit /b
 
